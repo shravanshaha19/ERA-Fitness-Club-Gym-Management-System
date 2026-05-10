@@ -65,6 +65,7 @@ The project focuses on creating a clean, responsive, and efficient digital solut
 
 # 📂 Project Structure
 
+```text
 ERA-Fitness-Club/
 │
 ├── index.php
@@ -84,12 +85,10 @@ ERA-Fitness-Club/
 ├── database/
 │   └── mysql.sql
 │
-├── assets/
-│   ├── Background-images/
-│   ├── Home/
-│   └── Services/
-│
 ├── screenshots/
-│
-├── README.md
-└── .gitignore
+   ├── Background-images/
+   ├── Home/
+   └── Services/
+
+
+```
