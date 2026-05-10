@@ -90,5 +90,42 @@ ERA-Fitness-Club/
    ├── Home/
    └── Services/
 
-
 ```
+
+
+# 📸 Project Screenshots
+
+## 🔐 Login Page
+
+<img width="951" height="431" alt="image" src="https://github.com/user-attachments/assets/acd0b145-992c-4cea-9100-d7bd4abd5789" />
+
+
+---
+
+## 📝 Signup Page
+
+![Signup Page](screenshots/signup-page.png)
+
+---
+
+## 🏠 Home Page
+
+![Home Page](screenshots/home-page.png)
+
+---
+
+## 🏋️ Services Page
+
+![Services Page](screenshots/services-page.png)
+
+---
+
+## 👨‍🏫 Trainers Page
+
+![Trainers Page](screenshots/trainers-page.png)
+
+---
+
+## 💳 Packages Page
+
+![Packages Page](screenshots/packages-page.png)
