@@ -125,7 +125,7 @@ ERA-Fitness-Club/
 
 ## 👨‍🏫 Trainers Page
 
-![Uploading image.png…]()
+<img width="1898" height="869" alt="image" src="https://github.com/user-attachments/assets/3cefdd1f-61c1-4804-95ce-c5dae77b90ac" />
 
 
 ---
